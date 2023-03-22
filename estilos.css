@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-image: url(https://www.10wallpaper.com/wallpaper/1920x1200/1307/sunlight_surface_earth_stars-Space_HD_Wallpaper_1920x1200.jpg);
+}
+
+div {
+    text-align: center;
+    font-size: 10vh;
+}
+
+h1 {
+    font-size: 5pc;
+    font-family: cursive;
+    margin-top: 100px;
+}
+
+p {
+    font-family: cursive;
+}
+
+button {
+    padding: 10px;
+    font-size: 2pc;
+    font-family: cursive;
+    margin-bottom: 80px;
+}
+
+footer {
+    font-size: 25px;
+    text-align: center;
+    font-family: cursive;
+   
+}
